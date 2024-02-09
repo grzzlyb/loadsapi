@@ -1,6 +1,6 @@
 # Loads API
 
-Loads API is a Spring Boot application that provides endpoints for managing loads.
+Loads API is a Spring Boot based REST API that provides endpoints for managing loads.
 
 ## Features
 
