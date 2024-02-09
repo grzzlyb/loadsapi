@@ -23,7 +23,3 @@ Loads API is a Spring Boot based REST API that provides endpoints for managing l
 ## Contributing
 
 Pull requests are welcome.
-
-## License
-
-MIT
